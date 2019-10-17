@@ -7,7 +7,7 @@ Total Images : 7601
 
 Labels : 392
 
-model : Convolutional Neural Network
+Model : Convolutional Neural Network
 
 Accuracy on Train data : 98.70%
 
